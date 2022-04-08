@@ -1,1 +1,1 @@
-# eduactional_management
+# eduactional_management_system
